@@ -22,9 +22,11 @@ bash Compiler.sh
 
 Reminder to not run any bash file from the internet. Check the code first.
 
-4. It will ask for the directory it should be pretty similar to this:
 
+4. It will ask for the directory it should be pretty similar to this:
+```sh
 home/deck/.steam/steam/userdata/<random_id_number>/gamerecordings/clip/clip_*/video/fg_*
+```
 
 5. Wait for the code to finish its thing.
 6. You can find the video named "final_video" on the same folder on step 4.
